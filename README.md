@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniket-lodh
+- 👋 Hi, I’m @Aniket-lodh ![](https://komarev.com/ghpvc/?username=Aniket-lodh&color=blueviolet&label=PROFILE+VIEWS)
 - 👀 I’m interested in UI/UX design, FullStack Web developer, Android Devlopement...
 - 💞 Skilled in Python, Sql, MongoDB, Javascript.
 - 🌱 I’m currently learning React.js & Node.js.
