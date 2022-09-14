@@ -8,7 +8,7 @@
 ---
 ✨ I'm a self taught software developer from <i><strong>India</strong></i> and a contributer. Passionate about making the web accessible to everyone and learning new things.
 
-I love sharing my knowledge with others, and I do that through contributing on open source projects. When I'm not coding, you can find me geeking about new technologies and UI designing.
+I love sharing my knowledge with others, and I do that through contributing to open source projects. When I'm not coding, you can find me geeking about new technologies and UI designing.
 
 - 😄 My Pronouns: He/Him   ![](https://komarev.com/ghpvc/?username=Aniket-lodh&color=blueviolet&label=PROFILE+VIEWS)
 - 💬 Ask me about: Html, Css, Js, React, MongoDB, Firebase, Figma, Blender, ubuntu
