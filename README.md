@@ -18,4 +18,6 @@ I love sharing my knowledge with others, and I do that through contributing on o
 - 📫 How to reach me:  <a href="mailto:aniket.lodh.08@gmail.com">email me</a>
 - ⚡ Fun fact: I enjoy cooking and I'm also known as the Lord Shiva. If you don't know what that is [check it out here](https://en.wikipedia.org/wiki/Aniket#:~:text=The%20meaning%20of%20the%20name,Indian%20journalist%20and%20film%20director)
 <br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aniket-lodh&theme=onedark&column=-1&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>
 <a href="https://stackoverflow.com/users/18529574/aniket-lodh"><img src="https://stackoverflow.com/users/flair/18529574.png?theme=clean" width="208" height="58" alt="profile for Aniket Lodh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aniket Lodh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
