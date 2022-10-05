@@ -23,13 +23,13 @@ I love sharing my knowledge with others, and I do that through contributing on o
 <a href="https://stackoverflow.com/users/18529574/aniket-lodh"><img src="https://stackoverflow.com/users/flair/18529574.png?theme=clean" width="208" height="58" alt="profile for Aniket Lodh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aniket Lodh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br><br>
 
-  <a href="https://github.com/aniket-lodh/github-readme-stats">
-   <img align="bottom" src="https://github-readme-stats-chi-jet.vercel.app/api?username=aniket-lodh&theme=darcula&count_private=true&show_icons=true"/>
+  <a href="https://github.com/Aniket-lodh/github-readme-stats">
+   <img align="bottom" src="https://github-readme-stats-chi-jet.vercel.app/api?username=Aniket-lodh&theme=darcula&count_private=true&show_icons=true"/>
   </a>
-  <a href="https://github.com/aniket-lodh/github-readme-stats">
-   <img align="top" src="https://github-readme-stats-chi-jet.vercel.app/api/top-langs/?username=aniket-lodh&layout=compact&langs_count=6&theme=darcula"/>
+  <a href="https://github.com/Aniket-lodh/github-readme-stats">
+   <img align="top" src="https://github-readme-stats-chi-jet.vercel.app/api/top-langs/?username=Aniket-lodh&layout=compact&count_private=true&langs_count=6&theme=darcula"/>
   </a>
   <br><br>
-  <a href="https://github.com/aniket-lodh/erentals">
-   <img align="center" src="https://github-readme-stats-chi-jet.vercel.app/api/pin/?username=aniket-lodh&repo=erentals&theme=darcula" />
+  <a href="https://github.com/Aniket-lodh/erentals">
+   <img align="center" src="https://github-readme-stats-chi-jet.vercel.app/api/pin/?username=Aniket-lodh&repo=erentals&theme=darcula" />
   </a>
