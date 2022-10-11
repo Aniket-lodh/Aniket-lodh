@@ -27,7 +27,7 @@ I love sharing my knowledge with others, and I do that through contributing on o
    <img align="bottom" src="https://github-readme-stats-chi-jet.vercel.app/api?username=Aniket-lodh&theme=darcula&count_private=true&show_icons=true"/>
   </a>
   <a href="https://github.com/Aniket-lodh/github-readme-stats">
-   <img align="top" src="https://github-readme-stats-chi-jet.vercel.app/api/top-langs/?username=Aniket-lodh&layout=compact&count_private=true&langs_count=6&theme=darcula"/>
+   <img align="top" src="https://github-readme-stats-chi-jet.vercel.app/api/top-langs/?username=Aniket-lodh&layout=compact&count_private=true&langs_count=6&theme=darcula&hide=less,c,c++,php"/>
   </a>
   <br><br>
   <a href="https://github.com/Aniket-lodh/erentals">
